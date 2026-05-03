@@ -1,0 +1,19 @@
+# When DNA Meets AI: Can Algorithms Read the Language of Life?
+
+Artificial intelligence is rapidly transforming genomics by helping scientists analyze DNA at a scale that would be impossible to handle manually. Genomic data is massive, complex, and high-dimensional, meaning it contains many biological variables at once. Machine learning and deep learning are especially useful because they can identify hidden patterns in large datasets and support research in areas such as disease prediction, variant interpretation, and precision medicine. In this context, AI is not replacing biologists; it is becoming a computational tool that helps researchers interpret the language of life more efficiently.
+
+One important use of deep learning in genomics is the prediction of transcription factor binding sites. Transcription factors are proteins that bind to specific DNA sequences and help regulate whether genes are turned on or off. Deep learning models, especially convolutional neural networks, can be trained on DNA sequences to detect short patterns called motifs that may indicate where these proteins bind. This matters because gene regulation is central to understanding development, disease, and personalized medicine. By learning directly from raw DNA sequences, these models can help reveal biological patterns that may be difficult for humans to identify manually.
+
+However, deep learning in genomics still has major limitations. Many models are considered “black boxes” because they can make accurate predictions without clearly explaining which biological features caused the prediction. This creates a problem for research and medicine because scientists and clinicians need more than accuracy; they need biological meaning, trust, and validation. Genomic datasets can also be affected by high dimensionality, imbalanced classes, population bias, and heterogeneity across different data types. These issues can make models less reliable if they are not carefully trained, tested, and interpreted.
+
+The future of AI in genomics will depend on building models that are not only powerful but also interpretable, ethical, and clinically useful. Multi-omics approaches, which combine data from genomics, transcriptomics, epigenomics, proteomics, and other biological layers, may help researchers understand disease more completely. Still, the goal should not be to treat AI as a perfect answer machine. Instead, AI should be used as part of a larger scientific workflow that includes strong data quality, biological validation, and human expertise. If developed responsibly, deep learning can help researchers move closer to precision medicine by turning complex biological data into meaningful insight.
+
+## Sources
+
+- [National Human Genome Research Institute — Artificial Intelligence, Machine Learning and Genomics](https://www.genome.gov/about-genomics/educational-resources/fact-sheets/artificial-intelligence-machine-learning-and-genomics)
+- [Zou et al. — A Primer on Deep Learning in Genomics](https://pubmed.ncbi.nlm.nih.gov/30478442/)
+- [Alipanahi et al. — Predicting the Sequence Specificities of DNA- and RNA-Binding Proteins by Deep Learning](https://pubmed.ncbi.nlm.nih.gov/26213851/)
+- [Quang and Xie — DanQ: A Hybrid Convolutional and Recurrent Deep Neural Network for Quantifying the Function of DNA Sequences](https://academic.oup.com/nar/article/44/11/e107/2468300)
+- [Koumakis — Deep Learning Models in Genomics; Are We There Yet?](https://pubmed.ncbi.nlm.nih.gov/32637044/)
+- [Frontline Genomics — Deep Learning in Genomics: Are We There Yet?](https://frontlinegenomics.com/deep-learning-in-genomics-are-we-there-yet/)
+- [Wekesa and Kimwele — A Review of Multi-Omics Data Integration Through Deep Learning Approaches](https://www.frontiersin.org/journals/genetics/articles/10.3389/fgene.2023.1199087/full)
