@@ -187,6 +187,6 @@ Erin Joel Moore
 
 # Acknowledgments
 
-- HackBio Internship Program
+- HackBio 
 - GDSC Research Dataset
 - Open-source Python scientific computing community
