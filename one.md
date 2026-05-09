@@ -1,4 +1,4 @@
-# HackBio Stage One – Exploring Genomics of Drug Sensitivity in Cancer (GDSC)
+# Exploring Genomics of Drug Sensitivity in Cancer (GDSC)
 
 ## Overview
 
