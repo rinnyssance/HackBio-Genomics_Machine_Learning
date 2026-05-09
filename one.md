@@ -2,8 +2,6 @@
 
 ## Overview
 
-This project is part of the HackBio AI for Genomics internship program.
-
 The goal of Stage One is to explore the Genomics of Drug Sensitivity in Cancer (GDSC) dataset and investigate how genomic features may influence cancer drug response.
 
 Rather than searching for a single “correct” answer, this project focuses on:
