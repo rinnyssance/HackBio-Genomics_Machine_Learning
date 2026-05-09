@@ -183,7 +183,7 @@ Future work could include:
 
 Erin Joel Moore
 
-Biology Pre-Professional Student | Computational Genomics Learner | AI for Genomics Intern
+Computational Genomics Trainee | AI for Genomics Intern
 
 ---
 
